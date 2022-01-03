@@ -4,4 +4,5 @@ Monkey
 Crocodile
 Crocodile's wife
 
-Friend
+Friend1
+Friend 2
